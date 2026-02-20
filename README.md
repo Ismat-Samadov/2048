@@ -1,8 +1,8 @@
 # Spotify Music Analytics: Insights for Artists
 
-> **Data Source**: Spotify dataset from Kaggle containing 114,000 tracks across 114 genres
-> **Last Updated**: November 2025
-> **Purpose**: Provide data-driven insights to help artists optimize their music strategy
+>- **Data Source**: Spotify dataset from Kaggle containing 114,000 tracks across 114 genres
+>- **Last Updated**: November 2025
+>- **Purpose**: Provide data-driven insights to help artists optimize their music strategy
 
 ---
 
