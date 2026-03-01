@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /c/Users/iasamadov/Desktop/projects/2048 && npx create-next-app@latest . --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --yes 2>&1)",
+      "Bash(tail:*)",
+      "Bash(cd /c/Users/iasamadov/Desktop/projects/2048 && npm run build 2>&1)"
+    ]
+  }
+}
